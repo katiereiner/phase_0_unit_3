@@ -6,19 +6,19 @@
 
 ## Release 0: Student Roster Schema
 <!-- display your image inline here -->
-
+http://i.imgur.com/PN2YOdL.png
 
 ## Release 1: One to Many Schema
 <!-- display your image inline here -->
-
+http://imgur.com/uUtwnl0
 
 ## Release 2: One to One Schema
 <!-- display your image inline here -->
-
+http://imgur.com/gx9KsX6
 
 ## Release 3: Many to Many Schema
 <!-- display your image inline here -->
-
+http://imgur.com/pprR6I1
 
 ## Release 4: Design your own Schema
 Description of what you're modeling: 
